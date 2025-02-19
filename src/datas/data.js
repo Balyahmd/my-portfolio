@@ -1,0 +1,70 @@
+const portfolio = {
+  profile: {
+    name: "Balya Ahmad Waffa",
+    title: "Web Developer | Mobile Developer",
+    bio: "Informatics Engineering student of Universitas Islam Balitar, a passionate and committed individual to explore the world of technology and programming, with a special focus on web development. Has a strong understanding of programming languages such as HTML, CSS, JavaScript, Typescript, and PHP, and has gained experience in operating various frameworks such as React.js, Tailwind, Bootstraps, and Express, with web design skills using tools such as Canva and Figma. Able to create attractive and responsive user interfaces and actively engaged in personal projects that continue to broaden my horizons and skills and excited to contribute in an environment that allows me to thrive in this field.",
+    contact: {
+      email: "balyaahmad133@gmail.com",
+      linkedin: "https://www.linkedin.com/in/balyahmd/",
+      github: "https://github.com/Balyahmd",
+    },
+  },
+  education: [
+    {
+      institution: "Universitas Islam Balitar",
+      degree: "Sarjana Teknik Informatika",
+      year: "2021 - sekarang",
+    },
+    {
+      institution: "Course-net Indonesia",
+      degree: "Fullstack Developer",
+      year: "2024",
+    },
+  ],
+  skills: [
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "MySQL",
+    "Flutter",
+    "Tailwind Css",
+    "Bostraps",
+    "PHP",
+  ],
+  projects: [
+    {
+      title: "bookshelf-apps",
+      thumnail: "../assets/thumnail-project/Bookshelft-app.png",
+      description: "Aplikasi untuk mengelola daftar buku .",
+      technologies: ["HTML", "Vanilla CSS", "Javascript"],
+      link: "https://github.com/Balyahmd/bookshelf-apps",
+      demo: "https://bookshelf-app-omega-six.vercel.app/",
+    },
+    {
+      title: "CatatanMu",
+      thumnail: "../assets/thumnail-project/CatatanMu-project.png",
+      description: "aplikasi sederhana untuk mengelola catatan.",
+      technologies: ["React.js", "Vanilla CSS"],
+      link: "https://github.com/Balyahmd/CatatanMu",
+      demo: "https://catatan-mu.vercel.app/",
+    },
+    {
+      title: "BalyaShop",
+      thumnail: "../assets/thumnail-project/balyaShop-project.png",
+      description: "aplikasi sederhana untuk mengelola catatan.",
+      technologies: ["React.js", "Tailwind Css"],
+      link: "https://github.com/Balyahmd/Ecommers-reactJS",
+      demo: "https://balya-shop.vercel.app/",
+    },
+    {
+      title: "Invbase",
+      thumnail: "../assets/thumnail-project/invbase-project.png",
+      description: "aplikasi inventory barang berbasis android.",
+      technologies: ["Flutter", "Express", "PostgreSQL"],
+      link: "https://github.com/Balyahmd/Final_project_InvBase",
+      demo: "https://github.com/Balyahmd/Final_project_InvBase",
+    },
+  ],
+};
