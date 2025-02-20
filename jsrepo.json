@@ -7,9 +7,8 @@
   "configFiles": {},
   "paths": {
     "*": "./src/animation",
-    "Animations": "./src/animation",
+    "Animations": "./src/Animations",
     "Backgrounds": "./src/Backgrounds",
-    "Components": "./src/Components",
-    "TextAnimations": "./src/src/TextAnimations"
+    "TextAnimations": "./src/TextAnimations"
   }
 }
